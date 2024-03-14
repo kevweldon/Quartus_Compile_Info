@@ -1,0 +1,13 @@
+# **************************************************
+# Quartus Prime Version 23.4.0
+# Process ID 22572
+# Start logging TCL commands
+# Thu Mar 14 08:54:42 2024
+# **************************************************
+project_open "top" -revision top
+flng::run_flow_command -flow "archive_project" -property {{revision} {top}} {{output} {C:/work/Intel_GIT/Quartus_Compile_Info/Quartus_Compile_Info/top_23_4_0_79.qar}} {{extra_args} {--dni}}
+project_close
+# **************************************************
+# Thu Mar 14 13:27:16 2024
+# End of logging TCL commands
+# **************************************************
