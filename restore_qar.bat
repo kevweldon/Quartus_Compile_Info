@@ -1,1 +1,1 @@
-quartus_sh --restore top_24_1_0_115.qar
+quartus_sh --restore top_24_2_0_40.qar
